@@ -91,10 +91,14 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-
+<!-- 뱃지 등록하기 -->
 <img src="https://img.shields.io/badge/홍길동-000000?style=badge&logo=Burton&logoColor=ffffff">
 <img src="https://img.shields.io/badge/홍길동-000000?style=for-the-badge&logo=Burton&logoColor=ffffff">
 <img src="https://img.shields.io/badge/홍길동-000000?style=plastic&logo=Burton&logoColor=ffffff">
 <img src="https://img.shields.io/badge/홍길동-000000?style=flat&logo=Burton&logoColor=ffffff">
 <img src="https://img.shields.io/badge/홍길동-000000?style=flat-square&logo=Burton&logoColor=ffffff">
 <img src="https://img.shields.io/badge/홍길동-000000?style=social&logo=Burton&logoColor=000000">
+
+<!-- 깃허브 상태(스탯-step) 등록하기 -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChunBoSik&show_icons=true&theme=radical)
