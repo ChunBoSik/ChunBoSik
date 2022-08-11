@@ -83,3 +83,10 @@ Here are some ideas to get you started:
 <p><a href="http://www.naver.com">네이버</a></p>
 <p><a href="http://www.daum.net">다음</a></p>
 <p><a href="http://blog.daum.net/cjsk1126">행복천</a></p>
+
+
+<p>
+  <a href="http://blog.daum.net/cjsk1126">
+    <img src="http://49.142.157.251:9090/javagreenS_lsp/rts_shop/rts_product/220804170415_f_7.jpg" />
+  </a>
+</p>
