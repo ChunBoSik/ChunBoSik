@@ -97,4 +97,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/홍길동-000000?style=plastic&logo=Burton&logoColor=ffffff">
 <img src="https://img.shields.io/badge/홍길동-000000?style=flat&logo=Burton&logoColor=ffffff">
 <img src="https://img.shields.io/badge/홍길동-000000?style=flat-square&logo=Burton&logoColor=ffffff">
-<img src="https://img.shields.io/badge/홍길동-000000?style=social&logo=Burton&logoColor=ffffff">
+<img src="https://img.shields.io/badge/홍길동-000000?style=social&logo=Burton&logoColor=000000">
